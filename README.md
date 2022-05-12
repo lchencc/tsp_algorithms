@@ -1,4 +1,4 @@
-## Algorithms for The Travelling Salesman Problem
+## Machine Learning Algorithms for The Travelling Salesman Problem
 
 #### TSP PROBLEM
 
@@ -10,9 +10,7 @@ The problem statement is as following, “Given a list of cities and the distanc
 
 #### PROJECT DESCRIPTION
 
-In this project, we will demonstrate four algorithms for solving the TSP problem--- Branch-and-Bound, Nearest Neighbor Heuristics, Genetic Algorithm and Simulated Annealing.
-
-We will cover our approaches, analyze the worst-case running time for those algorithms, and evaluate their performances with empirical analysis. At the end, we will discuss the pro and cons of each algorithm and how we can improve the optimization algorithm in the future. 
+We proposed four ML algorithms (Branch-and-Bound, Nearest Neighbor, Genetic Algorithm, and Simulated Annealing) for solving the traditional TSP problem and evaluated their performances with empirical analysis.
 
 #### TSP ALGORITHMS
 
